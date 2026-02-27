@@ -7,7 +7,7 @@ The repo is organised into two folders:
 
 ### FigureSources
 
-All figures that are in the manuscript can be found by searching in this folder for the file figure `Figure<number>_<description>.pdf`.
+All figures that are in the manuscript can be found by searching in this folder for the file `Figure<number>_<description>.pdf`.
 
 * Figure 1: conceptual, no scripts required.
 * Figure 2: conceptual, no scripts required. 
