@@ -3,7 +3,7 @@
 The repo is organised into two folders:
 
 1. `FigureSources` contains the OmniGraffle and svg files that were used to collect the different panels and make figures. 
-2. `Scripts` contains Python scripts that we used to plot the curves of interest from the main text.
+2. `Scripts` contains Python scripts that we used to plot the curves of interest from the main and supplementary text.
 
 ### FigureSources
 
