@@ -1,0 +1,817 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="confict_venn_diagram_20251021.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1048245"
+     inkscape:cx="312.2668"
+     inkscape:cy="60.643118"
+     inkscape:window-width="1512"
+     inkscape:window-height="949"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     showguides="false" />
+  <defs
+     id="defs1">
+    <rect
+       x="366.9596"
+       y="928.85059"
+       width="24.430043"
+       height="29.010676"
+       id="rect50" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle1"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle3"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1-9">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle1-9"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5">
+      <circle
+         style="fill:#00ff00;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle5"
+         cx="135.6212"
+         cy="112.70367"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6">
+      <ellipse
+         style="fill:#00ff00;fill-opacity:0.498525;stroke:none;stroke-width:0.538636;stroke-dasharray:2.87105, 2.87105"
+         id="ellipse6"
+         cx="108.21915"
+         cy="253.47507"
+         rx="43.042755"
+         ry="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1-99">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle1-1"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7">
+      <circle
+         style="fill:#ff0000;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle7"
+         cx="104.65654"
+         cy="73.4104"
+         r="40.115849"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1-5">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle1-8"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5-1">
+      <circle
+         style="fill:#00ff00;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle5-4"
+         cx="135.6212"
+         cy="112.70367"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6-7">
+      <ellipse
+         style="fill:#00ff00;fill-opacity:0.498525;stroke:none;stroke-width:0.538636;stroke-dasharray:2.87105, 2.87105"
+         id="ellipse6-1"
+         cx="108.21915"
+         cy="253.47507"
+         rx="43.042755"
+         ry="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath7-3">
+      <circle
+         style="fill:#ff0000;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle7-8"
+         cx="104.65654"
+         cy="73.4104"
+         r="40.115849"
+         clip-path="none" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath12">
+      <ellipse
+         style="fill:#00ff00;fill-opacity:0.498525;stroke:none;stroke-width:0.538636;stroke-dasharray:2.87105, 2.87105"
+         id="ellipse12"
+         cx="168.11548"
+         cy="298.85376"
+         rx="43.042755"
+         ry="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath13">
+      <ellipse
+         style="fill:#00ff00;fill-opacity:0.498525;stroke:none;stroke-width:0.538636;stroke-dasharray:2.87105, 2.87105"
+         id="ellipse13"
+         cx="135.79338"
+         cy="112.01498"
+         rx="43.042755"
+         ry="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath14">
+      <circle
+         style="fill:#ff0000;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle14"
+         cx="136.97864"
+         cy="260.24918"
+         r="40.115849"
+         clip-path="url(#clipPath12)"
+         transform="translate(-32.3221,-186.83877)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1-6">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle1-0"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15">
+      <ellipse
+         style="fill:#d0a1f6;fill-opacity:0.498039;stroke:none;stroke-width:0.501895;stroke-dasharray:2.67522, 2.67522"
+         id="ellipse15"
+         cx="97.864029"
+         cy="78.381157"
+         clip-path="none"
+         rx="39.046711"
+         ry="38.394341" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <ellipse
+         style="fill:#d29232;fill-opacity:0.498039;stroke:none;stroke-width:0.458671;stroke-dasharray:2.44483, 2.44483"
+         id="ellipse16"
+         cx="134.99791"
+         cy="240.28322"
+         rx="35.694893"
+         ry="35.077" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1-0">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle1-5"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17">
+      <ellipse
+         style="fill:#d29232;fill-opacity:0.498039;stroke:none;stroke-width:0.52;stroke-dasharray:2.77173, 2.77173"
+         id="ellipse17"
+         cx="125.26926"
+         cy="110.42703"
+         rx="40.52383"
+         ry="39.712078" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1-8">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle1-4"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15-0">
+      <ellipse
+         style="fill:#d0a1f6;fill-opacity:0.498039;stroke:none;stroke-width:0.501895;stroke-dasharray:2.67522, 2.67522"
+         id="ellipse15-4"
+         cx="97.864029"
+         cy="78.381157"
+         clip-path="none"
+         rx="39.046711"
+         ry="38.394341" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17-6">
+      <ellipse
+         style="fill:#d29232;fill-opacity:0.498039;stroke:none;stroke-width:0.52;stroke-dasharray:2.77173, 2.77173"
+         id="ellipse17-4"
+         cx="125.26926"
+         cy="110.42703"
+         rx="40.52383"
+         ry="39.712078" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16-6">
+      <ellipse
+         style="fill:#d29232;fill-opacity:0.498039;stroke:none;stroke-width:0.458671;stroke-dasharray:2.44483, 2.44483"
+         id="ellipse16-4"
+         cx="134.99791"
+         cy="240.28322"
+         rx="35.694893"
+         ry="35.077" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath26">
+      <circle
+         style="fill:#69eba7;fill-opacity:1;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle26"
+         clip-path="url(#clipPath17-6)"
+         transform="matrix(0.8808371,0,0,0.88328291,14.316524,157.20329)"
+         r="40.115849"
+         cy="111.26345"
+         cx="76.048561" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27">
+      <circle
+         style="fill:#69eba7;fill-opacity:1;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle27"
+         clip-path="url(#clipPath17-6)"
+         transform="translate(0.19159274,0.12503447)"
+         r="40.115849"
+         cy="111.26345"
+         cx="76.048561" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28">
+      <circle
+         style="fill:#69eba7;fill-opacity:1;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle28"
+         clip-path="url(#clipPath17-6)"
+         transform="matrix(0.8808371,0,0,0.88328291,14.316524,157.20329)"
+         r="40.115849"
+         cy="111.26345"
+         cx="76.048561" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath29">
+      <circle
+         style="fill:#69eba7;fill-opacity:1;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle29"
+         clip-path="url(#clipPath17-6)"
+         transform="translate(0.1926758,0.19347234)"
+         r="40.115849"
+         cy="111.26345"
+         cx="76.048561" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath30">
+      <ellipse
+         style="fill:#d0365d;fill-opacity:0.817109;stroke:none;stroke-width:0.442701;stroke-dasharray:2.3597, 2.3597"
+         id="ellipse30"
+         cx="110.85838"
+         cy="211.97765"
+         clip-path="url(#clipPath16-6)"
+         rx="34.393791"
+         ry="33.913067"
+         transform="translate(-10.555334,14.20117)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath31">
+      <ellipse
+         style="fill:#d29232;fill-opacity:0.498039;stroke:none;stroke-width:0.458672;stroke-dasharray:2.44483, 2.44483"
+         id="ellipse31"
+         ry="35.077"
+         rx="35.694893"
+         cy="254.57072"
+         cx="124.48862"
+         clip-path="url(#clipPath30)"
+         transform="matrix(1.1352837,0,0,1.1321401,-16.061723,-177.85111)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath32">
+      <circle
+         style="fill:#4a77a7;fill-opacity:0.887906;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle32"
+         clip-path="url(#clipPath31)"
+         transform="translate(0.00108295,0.0684391)"
+         r="40.115849"
+         cy="111.26345"
+         cx="76.048561" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1-08">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle1-82"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1-08-3">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle1-82-8"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath52">
+      <circle
+         style="fill:#36b1a7;fill-opacity:0.59587;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle52"
+         cx="76.048561"
+         cy="111.26345"
+         r="40.115849"
+         clip-path="url(#clipPath1-08-3)"
+         transform="matrix(0.52640249,0,0,0.49577681,-9.3676719,189.35792)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1-87">
+      <circle
+         style="fill:#1500ff;fill-opacity:0.498525;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle1-7"
+         cx="76.320831"
+         cy="110.45591"
+         r="40.115849" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15-4">
+      <ellipse
+         style="fill:#d0a1f6;fill-opacity:0.498039;stroke:none;stroke-width:0.501895;stroke-dasharray:2.67522, 2.67522"
+         id="ellipse15-49"
+         cx="97.864029"
+         cy="78.381157"
+         clip-path="none"
+         rx="39.046711"
+         ry="38.394341" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17-1">
+      <ellipse
+         style="fill:#d29232;fill-opacity:0.498039;stroke:none;stroke-width:0.52;stroke-dasharray:2.77173, 2.77173"
+         id="ellipse17-5"
+         cx="125.26926"
+         cy="110.42703"
+         rx="40.52383"
+         ry="39.712078" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16-5">
+      <ellipse
+         style="fill:#d29232;fill-opacity:0.498039;stroke:none;stroke-width:0.458671;stroke-dasharray:2.44483, 2.44483"
+         id="ellipse16-5"
+         cx="134.99791"
+         cy="240.28322"
+         rx="35.694893"
+         ry="35.077" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28-8">
+      <circle
+         style="fill:#69eba7;fill-opacity:1;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+         id="circle28-2"
+         clip-path="url(#clipPath17-6-9)"
+         transform="matrix(0.8808371,0,0,0.88328291,14.316524,157.20329)"
+         r="40.115849"
+         cy="111.26345"
+         cx="76.048561" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath17-6-9">
+      <ellipse
+         style="fill:#d29232;fill-opacity:0.498039;stroke:none;stroke-width:0.52;stroke-dasharray:2.77173, 2.77173"
+         id="ellipse17-4-8"
+         cx="125.26926"
+         cy="110.42703"
+         rx="40.52383"
+         ry="39.712078" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Venn circles"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#e6e5e5;fill-opacity:1;stroke:#000000;stroke-width:0.583049;stroke-dasharray:none;stroke-opacity:1"
+       id="rect52"
+       width="208.40349"
+       height="124.41833"
+       x="1.087173"
+       y="0.20743427"
+       inkscape:export-filename="used/venn_diagram.png"
+       inkscape:export-xdpi="800"
+       inkscape:export-ydpi="800" />
+    <circle
+       style="fill:#36b1a7;fill-opacity:0.681416;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+       id="path1-2"
+       cx="76.048561"
+       cy="111.26345"
+       r="40.115849"
+       clip-path="url(#clipPath1)"
+       transform="matrix(1.0611605,0,0,1.0641069,-1.4618984,-38.068113)"
+       inkscape:export-filename="venn_diagram_option_1.png"
+       inkscape:export-xdpi="120"
+       inkscape:export-ydpi="120" />
+    <ellipse
+       style="fill:#d0a1f6;fill-opacity:0.498039;stroke:none;stroke-width:0.533331;stroke-dasharray:2.84277, 2.84277"
+       id="path1-27"
+       cx="102.38754"
+       cy="45.337826"
+       clip-path="none"
+       rx="41.434822"
+       ry="40.855686" />
+    <circle
+       style="fill:#4a77a7;fill-opacity:0.887906;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+       id="path1-2-95"
+       cx="76.048561"
+       cy="111.26345"
+       r="40.115849"
+       clip-path="url(#clipPath15)"
+       transform="matrix(1.0611605,0,0,1.0641069,-1.4607492,-37.995299)" />
+    <ellipse
+       style="fill:#d29232;fill-opacity:0.498039;stroke:none;stroke-width:0.55257;stroke-dasharray:2.94533, 2.94533"
+       id="path1-2-9"
+       cx="132.25906"
+       cy="79.701469"
+       rx="43.002285"
+       ry="42.2579" />
+    <circle
+       style="fill:#78217d;fill-opacity:1;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+       id="path1-2-3"
+       cx="76.048561"
+       cy="111.26345"
+       r="40.115849"
+       clip-path="url(#clipPath17)"
+       transform="matrix(1.0758314,0,0,1.0641069,-3.1070999,-38.401855)" />
+    <ellipse
+       style="fill:#d0365d;fill-opacity:0.817109;stroke:none;stroke-width:0.442701;stroke-dasharray:2.3597, 2.3597"
+       id="path1-27-9"
+       cx="110.85838"
+       cy="211.97765"
+       clip-path="url(#clipPath16)"
+       rx="34.393791"
+       ry="33.913067"
+       transform="matrix(1.2133167,0,0,1.2047181,-32.46998,-210.13954)" />
+    <ellipse
+       style="fill:#ffffff;fill-opacity:0.879056;stroke:none;stroke-width:0.442701;stroke-dasharray:2.3597, 2.3597"
+       id="path1-27-4"
+       clip-path="url(#clipPath28)"
+       ry="33.913067"
+       rx="34.393791"
+       cy="226.26515"
+       cx="100.34908"
+       transform="matrix(1.2198688,0,0,1.214419,-20.432614,-229.91824)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.66288px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#17747e;fill-opacity:1;stroke:none;stroke-width:0.758832;stroke-dasharray:4.04477, 4.04477"
+       x="62.967537"
+       y="89.89827"
+       id="text47-4"
+       inkscape:export-filename="../../../../../conflict_venn_diagram.png"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#17747e;fill-opacity:1;stroke-width:0.758834"
+         x="62.967537"
+         y="89.89827"
+         id="tspan48">Plant-pollinator</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.97111px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#af6900;fill-opacity:1;stroke:none;stroke-width:0.398132;stroke-dasharray:2.12214, 2.12214"
+       x="28.659842"
+       y="202.56306"
+       id="text47-4-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#000000;fill-opacity:1;stroke-width:0.398133"
+         x="28.659842"
+         y="202.56306"
+         id="tspan48-8" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.87272px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#810099;fill-opacity:0.878431;stroke:none;stroke-width:0.299267;stroke-dasharray:1.59516, 1.59516"
+       x="171.82037"
+       y="9.1893148"
+       id="text32"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#810099;fill-opacity:0.878431;stroke-width:0.299267"
+         x="171.82037"
+         y="9.1893148"
+         id="tspan13">Internal (multi-level selection, </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#810099;fill-opacity:0.878431;stroke-width:0.299267"
+         x="171.82037"
+         y="15.280214"
+         id="tspan3">one agent obligately</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#810099;fill-opacity:0.878431;stroke-width:0.299267"
+         x="171.82037"
+         y="21.371115"
+         id="tspan2">encapsulated by the other)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.57521px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#2c9393;fill-opacity:1;stroke:none;stroke-width:0.280998;stroke-dasharray:1.49777, 1.49777"
+       x="21.930115"
+       y="104.30114"
+       id="text32-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#2c9393;fill-opacity:1;stroke-width:0.280998"
+         x="21.930115"
+         y="104.30114"
+         id="tspan33-7">Multi-generational</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#2c9393;fill-opacity:1;stroke-width:0.280998"
+         x="21.930115"
+         y="110.02015"
+         id="tspan1">/co-evolutionary</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#2c9393;fill-opacity:1;stroke-width:0.280998"
+         x="21.930115"
+         y="115.73917"
+         id="tspan34">(inherited in </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#2c9393;fill-opacity:1;stroke-width:0.280998"
+         x="21.930115"
+         y="121.45818"
+         id="tspan9">both agents)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.42976px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#be791d;fill-opacity:1;stroke:none;stroke-width:0.272062;stroke-dasharray:1.45016, 1.45016"
+       x="186.81787"
+       y="104.31663"
+       id="text35"><tspan
+         sodipodi:role="line"
+         id="tspan35"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.24747px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#be791d;fill-opacity:1;stroke-width:0.272063"
+         x="186.81787"
+         y="104.31663">Conflicts</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#be791d;fill-opacity:1;stroke-width:0.272063"
+         x="186.81787"
+         y="110.17513"
+         id="tspan36">(two or more agents</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#be791d;fill-opacity:1;stroke-width:0.272063"
+         x="186.81787"
+         y="115.71233"
+         id="tspan37"> with opposing </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#be791d;fill-opacity:1;stroke-width:0.272063"
+         x="186.81787"
+         y="121.24953"
+         id="tspan11">fitness interests)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.11741px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.551738;stroke-dasharray:2.94089, 2.94089"
+       x="78.919998"
+       y="48.645164"
+       id="text38"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.11741px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.551738"
+         x="78.919998"
+         y="48.645164"
+         id="tspan39">Homing </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.11741px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.551738"
+         x="78.919998"
+         y="53.791927"
+         id="tspan12">endonucleases</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.31811px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.578632;stroke-dasharray:3.08424, 3.08424"
+       x="128.24701"
+       y="55.363918"
+       id="text40"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.578633"
+         x="128.24701"
+         y="55.363918"
+         id="tspan46">Most cancers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.67401px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.492317;stroke-dasharray:2.62416, 2.62416"
+       x="133.15665"
+       y="43.982723"
+       id="text40-8"
+       transform="scale(0.94238777,1.0611343)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.492319"
+         x="133.15665"
+         y="43.982723"
+         id="tspan46-03">Colony-sterile worker</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01337px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.403792;stroke-dasharray:2.1523, 2.1523"
+       x="74.161339"
+       y="238.42479"
+       id="text40-4-8"
+       transform="rotate(-0.48588235)"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#000000;fill-opacity:1;stroke-width:0.403796"
+         x="74.161339"
+         y="238.42479"
+         id="tspan46-0-9" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.13498px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.55409;stroke-dasharray:2.95342, 2.95342"
+       x="104.85609"
+       y="88.386993"
+       id="text40-6"><tspan
+         sodipodi:role="line"
+         id="tspan40-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.554091"
+         x="104.85609"
+         y="88.386993" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.554091"
+         x="104.85609"
+         y="93.555717"
+         id="tspan44">Predator-prey</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.554091"
+         x="104.85609"
+         y="98.724442"
+         id="tspan45" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.19052px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.427534;stroke-dasharray:2.27887, 2.27887"
+       x="104.3457"
+       y="71.503471"
+       id="text43-7"><tspan
+         sodipodi:role="line"
+         id="tspan43-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';stroke-width:0.427534"
+         x="104.3457"
+         y="71.503471">Maternal imprinting</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.29024px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.440897;stroke-dasharray:2.3501, 2.3501"
+       x="104.47993"
+       y="64.664505"
+       id="text43-7-7"><tspan
+         sodipodi:role="line"
+         id="tspan43-6-1"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';stroke-width:0.440897"
+         x="104.47993"
+         y="64.664505">Meiotic drivers</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.519999;stroke-dasharray:2.77172, 2.77172"
+       x="106.90884"
+       y="83.375771"
+       id="text43-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan43-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';stroke-width:0.52"
+         x="106.90884"
+         y="83.375771" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.64571px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#af6900;fill-opacity:1;stroke:none;stroke-width:0.622528;stroke-dasharray:3.31822, 3.31822"
+       x="148.82445"
+       y="89.63974"
+       id="text47-9-9-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#af6900;fill-opacity:1;stroke-width:0.622532"
+         x="148.82445"
+         y="89.63974"
+         id="tspan8">Queen-sterile worker</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.519999;stroke-dasharray:none;stroke-opacity:1"
+       x="26.905521"
+       y="207.17252"
+       id="text53"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52"
+         x="26.905521"
+         y="207.17252" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.82237px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#810099;fill-opacity:0.878431;stroke:none;stroke-width:0.296173;stroke-dasharray:1.57868, 1.57868"
+       x="102.84745"
+       y="25.017509"
+       id="text32-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';fill:#810099;fill-opacity:0.878431;stroke-width:0.296173"
+         x="102.84745"
+         y="25.017509"
+         id="tspan2-4">Immune system-organism</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.05556px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman,  Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.453001"
+       x="102.79893"
+       y="76.060829"
+       id="text4"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="stroke-width:0.453"
+         x="102.79893"
+         y="76.060829" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.12937px;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.200921"
+       x="104.90977"
+       y="78.923027"
+       id="text5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:'Avenir Bold';stroke-width:0.20092"
+         x="104.90977"
+         y="78.923027"
+         id="tspan6">Feminizing <tspan
+   style="font-style:italic;stroke-width:0.20092"
+   id="tspan7">Wolbachia</tspan></tspan></text>
+  </g>
+</svg>
