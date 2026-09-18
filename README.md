@@ -1,4 +1,6 @@
-## This repository contains figure sources and plotting scripts associated to the paper "Internal evolutionary conflicts: a mathematical primer".
+## This repository contains figure sources and plotting scripts associated to the paper "Internal evolutionary conflicts: a conceptual synthesis and mathematical primer", by Gaurav S. Athreya, Ananda Shikhara Bhat, Arvid J. Agren, E. Yagmur Erten, and Thomas A. Keaney.
+
+Preprint version can be found on biorXiv at https://doi.org/10.64898/2026.07.16.739017. 
 
 The repo is organised into two folders:
 
